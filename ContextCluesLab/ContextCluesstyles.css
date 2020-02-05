@@ -1,0 +1,16 @@
+h3{
+    border-radius: 10px;
+    border-color: rgb(24, 136, 117);
+    border-style: groove;
+    display: inline;
+    padding: 1em;
+    }
+    .h3Container{
+        display: flex;
+        flex-flow: wrap;
+    }
+    h1{
+        color:rgb(150, 52, 145);
+        display: block;
+        margin: auto;
+    }
